@@ -1,7 +1,7 @@
 # Rewards
 
 **API**
-localhost:8080/customer/rewards/456
+eg: 
 localhost:8080/customer/rewards/123
 
 I have added two customer when you call the api 
